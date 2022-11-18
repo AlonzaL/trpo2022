@@ -41,7 +41,7 @@ _Параграф 3_
 
 Мой строчный код `MyClass myClass = new();`javascript идёт в строке
 
-### Ссылки
+#### Ссылки
 
 Это ссылка на [сайт](http://rsu.edu.ru "Сайт университета")
 
@@ -50,3 +50,9 @@ _Параграф 3_
 #### Изображения
 
 ![MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png "Изображение")
+
+#### Таблица
+
+|Столбец 1|Столбец 2|
+|1|2|
+|3|4|
